@@ -19,13 +19,13 @@ A Minecraft-inspired inventory management system built using Python and Tkinter.
 
 ## Features
 
-- ✅ **Add Items** - Easily add new items to your inventory with a user-friendly interface
-- ✅ **Remove Items** - Remove items from inventory with a single click
-- ✅ **Crafting System** - Combine items to craft new tools and materials
-- ✅ **GUI Interface** - Intuitive Tkinter-based graphical interface
-- ✅ **Item Display** - Visual representation of items with images
-- ✅ **Inventory Management** - Organized item slots for efficient management
-- ✅ **Data Structure Implementation** - Uses linked lists for efficient data management
+- **Add Items** - Easily add new items to your inventory with a user-friendly interface
+- **Remove Items** - Remove items from inventory with a single click
+- **Crafting System** - Combine items to craft new tools and materials
+- **GUI Interface** - Intuitive Tkinter-based graphical interface
+- **Item Display** - Visual representation of items with images
+- **Inventory Management** - Organized item slots for efficient management
+- **Data Structure Implementation** - Uses linked lists for efficient data management
 
 ## Screenshots
 

@@ -9,6 +9,10 @@ A Minecraft-inspired inventory management system built using Python and Tkinter.
 - Crafting system
 - GUI interface
 
+##screenshots
+
+-https://github.com/nipunjoisa/Minecraft-inventory-system./blob/main/screenshots/Screenshot%202024-12-05%20224255.png?raw=true
+
 ## Technologies Used
 
 - Python
